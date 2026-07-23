@@ -222,4 +222,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SphereFollower
   target: {fileID: 0}
   targetChildTag: StopArea
-  moveSpeed: 5
+  moveSpeed: 10

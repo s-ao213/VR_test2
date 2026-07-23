@@ -25,7 +25,7 @@ public class UI_Result : MonoBehaviour
     {
         // スコアのUIを更新する処理
         Debug.Log("Score : " + newScore);
-        scoreText.text = "最終結果\nスコア: " + newScore.ToString() + "\n もう一回遊ぶ？";
+        scoreText.text = "最終結果\nスコア: " + newScore.ToString();
     }
 
     public void OnRestartButtonClicked()
